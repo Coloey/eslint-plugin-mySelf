@@ -1,0 +1,13 @@
+{
+    "name": "eslint-plugin-sensitivewords",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "eslint ."
+    },
+    "devDependencies": {
+      "eslint": "^7.32.0",
+      "eslint-plugin-eslint-plugin": "^3.7.1"
+    }
+  }
+  
